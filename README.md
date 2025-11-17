@@ -7,19 +7,19 @@ This repository contains the first stage of a Python-based bioinformatics learni
 
 ## Features
 
-### ✔ DNA → Protein Translation
+## DNA → Protein Translation
 - Supports codon-based translation  
 - Handles unknown codons gracefully (configurable)  
 - Modular and extensible design  
 - Ready for FASTA/CSV input integration
 
-### ✔ Hamming Distance Calculation
+## Hamming Distance Calculation
 - Works for any pair of equal-length strings  
 - Provides mismatch counts and positions  
 - Useful for mutation scanning and QC checks  
 - Includes padding/validation options
 
-### ✔ Data Analysis Infrastructure
+## Data Analysis Infrastructure
 The project follows standard bioinformatics expectations:
 - `pandas` for dataframe operations  
 - `numpy` for numerical work  
