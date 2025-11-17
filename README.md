@@ -5,7 +5,7 @@ This repository contains the first stage of a Python-based bioinformatics learni
 
 ---
 
-## 🚀 Features
+## Features
 
 ### ✔ DNA → Protein Translation
 - Supports codon-based translation  
@@ -28,5 +28,5 @@ The project follows standard bioinformatics expectations:
 
 ---
 
-## 📂 Project Structure
+
 
